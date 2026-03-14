@@ -140,7 +140,7 @@ No hyperparameter search was used. Every change was motivated by understanding *
   title={BackLoss v101: 99.11\% MNIST Accuracy with Gabor Features and kNN},
   author={Ümit},
   year={2025},
-  url={https://github.com/YOUR_USERNAME/backloss-mnist}
+  url={https://github.com/umiteknoloji/backloss-mnist}
 }
 ```
 
